@@ -1,6 +1,6 @@
 # Project 4 - Data Scientist Capstone: Dog Breed Classifier 
 
-""I found the readme given in the workspace here should be in another udacity CNN related case, so I still try to follow the Project Rubric of Data Scientist Project. So I did not upload a report.html in github, instead, I post the post in medium, You could found my post in :https://medium.com/@eros329/report-case-study-in-dog-breed-classifier-designing-udacity-data-scientist-capstone-project-5faf350c4759""
+""I found the README.md given in the workspace here should belong to other Udacity cases, so I still try to follow the Project Rubric of **Data Scientist Project**. So I did not upload a report.html in github, instead, I post the post in medium, You could found my post in :https://medium.com/@eros329/report-case-study-in-dog-breed-classifier-designing-udacity-data-scientist-capstone-project-5faf350c4759""
 
 ## Project Overview
 
